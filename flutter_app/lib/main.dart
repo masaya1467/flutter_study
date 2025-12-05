@@ -29,7 +29,7 @@ class HomePage extends StatelessWidget {
         child: Text(
           '株式会社NOE',
           style: GoogleFonts.hachiMaruPop(
-            fontSize: 30,
+            fontSize: 40,
             fontWeight: FontWeight.w900,
           ),
           )
