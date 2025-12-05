@@ -1,0 +1,35 @@
+name: flutter_app
+description: "A new Flutter project."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.0
+
+dependencies:
+  google_fonts:
+  freezed_annotation: ^2.4.4
+  percent_indicator:
+  go_router:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.6.1
+  cupertino_icons: ^1.0.8
+  json_annotation: ^4.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  freezed: ^2.5.7
+  build_runner: ^2.4.11
+  json_serializable: ^6.9.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/google_fonts/

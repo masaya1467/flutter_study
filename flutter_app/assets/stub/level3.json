@@ -1,0 +1,22 @@
+{
+    "title": "ぼくぼくカレー",
+    "calories": 600,
+    "Vegetables": [
+    {
+        "name": "タマネギ",
+        "color": "白色",
+        "season": "全ての季節"
+    },
+    {
+        "name": "ニンジン",
+        "color": "オレンジ",
+        "season": "春夏と冬"
+    },
+    {
+        "name": "ジャガイモ",
+        "color": "茶色",
+        "season": "春と秋"
+    }
+    ]
+}
+
