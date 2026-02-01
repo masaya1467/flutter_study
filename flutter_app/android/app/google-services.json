@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078226748220",
+    "project_id": "naruto-be91a",
+    "storage_bucket": "naruto-be91a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078226748220:android:a06b1204303e14ea835439",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtKN525zXVtg6fYEQ4SJoA7aI42i6NRr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
