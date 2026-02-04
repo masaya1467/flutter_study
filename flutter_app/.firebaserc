@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "naruto-sns-prod",
+    "test": "naruto-be91a"
+  },
+  "targets": {},
+  "etags": {}
+}
