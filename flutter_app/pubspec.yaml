@@ -22,6 +22,8 @@ dependencies:
   firebase_core: ^4.3.0
   firebase_analytics: ^12.1.1
   firebase_auth: ^6.1.4
+  flutter_flavor: ^3.1.4
+  flutter_flavorizr: ^2.4.1
 
 dev_dependencies:
   flutter_test:
@@ -37,3 +39,23 @@ flutter:
   assets:
     - assets/images/
     - assets/google_fonts/
+
+flavorizr:
+  app:
+    android:
+      flavorDimensions: "flavor-type"
+  flavors:
+    dev:
+      app:
+        name: "テキストSNS Dev"
+      android:
+        applicationId: "com.firebaseapp.naruto_be91a"
+      ios:
+        bundleId: "com.firebaseapp.narutoBe91a"
+    prod:
+      app:
+        name: "テキストSNS"
+      android:
+        applicationId: "com.firebaseapp.naruto_sns_prod"
+      ios:
+        bundleId: "com.firebaseapp.narutoSnsProd"
